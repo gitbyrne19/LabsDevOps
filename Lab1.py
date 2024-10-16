@@ -14,4 +14,9 @@ print(greet("Luke"))
 
 print("This line was added directly on GitHub.")
 
+<<<<<<< HEAD
 print("This line was added locally.")
+=======
+
+print("Another line added on GitHub.")
+>>>>>>> 95692e3411bc645b9759c857983409040074c80f

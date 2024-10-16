@@ -18,4 +18,13 @@ print("This line was added locally.")
 
     
 def feature_a():
-    return "This is feature A"
+    return "This is the improved feature A"
+
+def feature_b():
+    return "This is feature B"
+
+def helper_function_1():
+    return "I'm helping!"
+
+def helper_function_2():
+    return "I'm also helping!"
